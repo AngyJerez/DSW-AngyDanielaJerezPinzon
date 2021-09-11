@@ -1,10 +1,11 @@
 ﻿header {
-    background: url(img/encabezado.jpg);
+    background: url(img/enca.jpg);
     height: 30px;
     width: 1500px;
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 10px;
+    
 }
 
 html {
